@@ -9,19 +9,19 @@ Works from the first part of the course, manual testing
   Работать с базами данных;
   Работать с инфраструктурой и архитектурой приложений;
   Тестировать веб- и мобильные приложения, API;
-  Общаться с тестировщиками и работать в команде
+  Общаться с тестировщиками и работать в команде.
 
 За время обучения я освоил и работал с:
-  Charles
-  Postman
-  apiDoc и Swagger
-  JSON, XML и XSD
-  SQL
-  Android Studio
-  Maven
-  REST Assured
-  DevTools
-  CSS
+  Charles;
+  Postman;
+  apiDoc и Swagger;
+  JSON, XML и XSD;
+  SQL;
+  Android Studio;
+  Maven;
+  REST Assured;
+  DevTools;
+  CSS.
 
 
   
