@@ -1,5 +1,4 @@
 # QA_Manual_Course
-Works from the first part of the course, manual testing
 
 Чему я научился за время обучения на ручном тестровании:
   Проводить ручное тестирование;
